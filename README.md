@@ -1,2 +1,4 @@
-# KoKoa_Clone2020
+# kakao_clone
  
+KaKao Clone Desktop App
+Start 2020
